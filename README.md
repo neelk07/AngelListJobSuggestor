@@ -3,7 +3,7 @@ Get the top 10 relevant jobs for you from AngelList!
 
 ### Setup 
 1. Git clone and navigate into project
-2. Run `python install -r requirements.txt` to install dependent libaries 
+2. Run `sudo python install -r requirements.txt` to install dependent libaries 
 3. Replace information in *candidate.json* with your own
 4. Run this command `python jobSearch.py candidate.json` 
 5. Be patient (may take a min or two for a big tech city like San Francisco)
